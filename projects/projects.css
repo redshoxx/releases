@@ -1,0 +1,65 @@
+body {
+  /* background-size: cover!important; */
+  /* background-image: url('assets/head_image.png')!important; */
+  background: #121212;
+  background-color: #121212!important;
+}
+
+p {
+  color: rgba(255, 255, 255, 0.75);
+}
+
+.subtitle {
+  color: rgba(255, 255, 255, 0.7);
+}
+
+a {
+  text-decoration: none;
+}
+
+.card {
+  border-radius: 10px;
+  border-color: rgba(0, 0, 0, 0.1);
+  height: 100px;
+  background-color: #000000;
+  background-size: contain;
+  background-repeat: no-repeat;
+  transition: border-color 0.2s ease-in-out;
+}
+
+.box {
+  height: 200px;
+}
+
+.dark {
+  background-color: #000000;
+}
+
+.card:hover {
+  border-color: rgba(255, 255, 255, 0.3);
+}
+
+.lifted {
+  transition: transform 0.2s ease-in-out;
+}
+
+.lifted:hover {
+  transform: translateY(-10px);
+}
+
+.raised {
+  box-shadow: 0 4px 8px 0 rgb(0, 0, 0);
+  transition: 0.2s;
+}
+
+.raised:hover {
+  box-shadow: 0 8px 16px 0 rgb(0, 0, 0);
+}
+
+.image-card {
+  justify-content: center;
+  align-items: center;
+  object-fit: cover;
+  height: 100%;
+  width: 100%;
+}
