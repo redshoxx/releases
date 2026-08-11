@@ -1,7 +1,7 @@
 {
   "app": "Magnet CRM",
   "channel": "development",
-  "version": "1.4.4",
-  "published_at": "2026-08-12T01:12:00+02:00",
-  "notes": "Cache-Hotfix für Windows: PWA-Service-Worker und alte WebView-Caches werden in der Tauri-App entfernt. version.js lädt den Chat-/Update-Bootstrap zusätzlich selbst nach, sodass ein alter index.html den Mitarbeiterchat oder die Update-Prüfung nicht mehr blockieren kann."
+  "version": "1.5.0",
+  "published_at": "2026-08-12T01:18:00+02:00",
+  "notes": "Neue Update-UX: Fortschrittsbalken von 0 bis 100 Prozent mit klaren Phasen für Prüfen, Laden, Build und Neustart. Zusätzlich erscheint beim Start der Windows-App ein professioneller Magnet-CRM-Ladescreen, bis Login/Auto-Login bzw. die CRM-Oberfläche bereit ist."
 }
