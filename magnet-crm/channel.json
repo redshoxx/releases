@@ -1,7 +1,7 @@
 {
   "app": "Magnet CRM",
   "channel": "development",
-  "version": "1.3.11",
-  "published_at": "2026-08-12T00:15:00+02:00",
-  "notes": "Recovery-Hotfix: behebt den Rust-Apostrophfehler und den defekten ICO-Build. Icons werden jetzt mit dem offiziellen Tauri-Generator aus SVG erzeugt. Entwicklungsupdates bauen nur noch die App ohne NSIS-Bundle und ersetzen die EXE mit Backup/Rollback statt die bestehende Installation vorab zu deinstallieren."
+  "version": "1.4.0",
+  "published_at": "2026-08-12T00:34:00+02:00",
+  "notes": "Mitarbeiter-Livechat: schwebender Chat unten rechts, 1:1-Nachrichten, ungelesene Badges, Lesebestätigung, Mitarbeiter-/Filialkontext, Supabase Realtime mit Sync-Fallback sowie responsive Windows/Web/Mobile-Oberfläche. Benötigt einmalig supabase/schema_v1_4.sql."
 }
