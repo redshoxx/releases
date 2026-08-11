@@ -1,7 +1,7 @@
 {
   "app": "Magnet CRM",
   "channel": "development",
-  "version": "1.4.0",
-  "published_at": "2026-08-12T00:34:00+02:00",
-  "notes": "Mitarbeiter-Livechat: schwebender Chat unten rechts, 1:1-Nachrichten, ungelesene Badges, Lesebestätigung, Mitarbeiter-/Filialkontext, Supabase Realtime mit Sync-Fallback sowie responsive Windows/Web/Mobile-Oberfläche. Benötigt einmalig supabase/schema_v1_4.sql."
+  "version": "1.4.1",
+  "published_at": "2026-08-12T00:43:00+02:00",
+  "notes": "Chat-Hotfix: Der Mitarbeiterchat-Button wird jetzt zuverlässig eingeblendet, sobald die CRM-Oberfläche sichtbar ist – unabhängig vom exakten Session-Flag. Auto-Login und spätere UI-Umschaltungen werden überwacht. Falls die Chat-Migration fehlt, bleibt der Button sichtbar und zeigt einen klaren Hinweis."
 }
