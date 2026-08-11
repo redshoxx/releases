@@ -1,0 +1,16 @@
+{
+  "name": "Magnet CRM",
+  "version": "0.5.0",
+  "channel": "development",
+  "repository": "redshoxx/Magnet_Tool",
+  "branch": "crm-main",
+  "published_at": "2026-08-11T13:51:00+02:00",
+  "notes": [
+    "Kundenkommunikation und Wiedervorlagen",
+    "Intelligente Benachrichtigungszentrale",
+    "Rollenbasierte Navigation",
+    "Update-Center",
+    "Windows Auto-Updater technisch vorbereitet"
+  ],
+  "binary_updater_ready": false
+}
