@@ -1,7 +1,7 @@
 {
   "app": "Magnet CRM",
   "channel": "development",
-  "version": "1.5.3",
-  "published_at": "2026-08-12T01:45:00+02:00",
-  "notes": "Windows-Recovery-Hotfix: HTTPS-Tauri-Origin zurückgerollt, frisches WebView-Datenverzeichnis für einen sauberen Start, statischer Vollbild-Startscreen entfernt. Der Update-Fortschritt 0–100 %, Mitarbeiterchat und zentrale Versionsprüfung bleiben erhalten."
+  "version": "1.5.4",
+  "published_at": "2026-08-12T01:53:00+02:00",
+  "notes": "Stabilitäts-Hotfix: Freeze beim Öffnen der Einstellungen behoben. Der selbstverstärkende MutationObserver im Update-Check wurde entfernt; Versionsanzeige und automatische Update-Prüfung laufen jetzt ohne DOM-Endlosschleife."
 }
