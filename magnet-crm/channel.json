@@ -1,7 +1,7 @@
 {
   "app": "Magnet CRM",
   "channel": "development",
-  "version": "1.5.2",
-  "published_at": "2026-08-12T01:36:00+02:00",
-  "notes": "Windows-Start-Hotfix: alter PWA-Service-Worker kann tauri.localhost nicht mehr blockieren. Tauri nutzt einen frischen HTTPS-Origin, Service-Worker werden in der Desktop-App gesperrt und der Startscreen kann die Oberfläche nicht mehr blockieren."
+  "version": "1.5.3",
+  "published_at": "2026-08-12T01:45:00+02:00",
+  "notes": "Windows-Recovery-Hotfix: HTTPS-Tauri-Origin zurückgerollt, frisches WebView-Datenverzeichnis für einen sauberen Start, statischer Vollbild-Startscreen entfernt. Der Update-Fortschritt 0–100 %, Mitarbeiterchat und zentrale Versionsprüfung bleiben erhalten."
 }
