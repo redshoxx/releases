@@ -1,7 +1,7 @@
 {
   "app": "Magnet CRM",
   "channel": "development",
-  "version": "1.5.0",
-  "published_at": "2026-08-12T01:18:00+02:00",
-  "notes": "Neue Update-UX: Fortschrittsbalken von 0 bis 100 Prozent mit klaren Phasen für Prüfen, Laden, Build und Neustart. Zusätzlich erscheint beim Start der Windows-App ein professioneller Magnet-CRM-Ladescreen, bis Login/Auto-Login bzw. die CRM-Oberfläche bereit ist."
+  "version": "1.5.1",
+  "published_at": "2026-08-12T01:28:00+02:00",
+  "notes": "Update-Anzeige korrigiert: Magnet CRM verwendet jetzt eine zentrale installierte Versionsquelle. Alte Update-Checker können die Version nicht mehr auf 1.4.x zurücksetzen. Installiert/Verfügbar wird zuverlässig und einheitlich angezeigt."
 }
