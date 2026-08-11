@@ -1,7 +1,7 @@
 {
   "app": "Magnet CRM",
   "channel": "development",
-  "version": "1.3.8",
-  "published_at": "2026-08-11T23:50:00+02:00",
-  "notes": "In-App-Updater-Polish: Git, npm, Tauri/Cargo und Paketprüfungen laufen unter Windows ohne sichtbare Konsolenfenster im Hintergrund."
+  "version": "1.3.9",
+  "published_at": "2026-08-11T23:59:00+02:00",
+  "notes": "In-App-Updater-Fix: npm und der Tauri-Windows-Build laufen jetzt in einem vollständig versteckten WScript/CMD-Host. Dadurch erben auch Tauri-interne npm-Unterprozesse das versteckte Fenster und öffnen keine separaten Windows-Terminals mehr."
 }
