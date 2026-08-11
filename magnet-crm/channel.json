@@ -1,7 +1,7 @@
 {
   "app": "Magnet CRM",
   "channel": "development",
-  "version": "1.4.1",
-  "published_at": "2026-08-12T00:43:00+02:00",
-  "notes": "Chat-Hotfix: Der Mitarbeiterchat-Button wird jetzt zuverlässig eingeblendet, sobald die CRM-Oberfläche sichtbar ist – unabhängig vom exakten Session-Flag. Auto-Login und spätere UI-Umschaltungen werden überwacht. Falls die Chat-Migration fehlt, bleibt der Button sichtbar und zeigt einen klaren Hinweis."
+  "version": "1.4.2",
+  "published_at": "2026-08-12T00:52:00+02:00",
+  "notes": "Update-Check-Hotfix: Die Einstellungen prüfen den Release-Kanal jetzt automatisch, vergleichen Versionen ohne alte Hilfsfunktionen und zeigen immer explizit Installiert/Verfügbar sowie verständliche Fehler an."
 }
