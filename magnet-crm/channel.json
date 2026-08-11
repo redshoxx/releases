@@ -1,7 +1,7 @@
 {
   "app": "Magnet CRM",
   "channel": "development",
-  "version": "1.5.1",
-  "published_at": "2026-08-12T01:28:00+02:00",
-  "notes": "Update-Anzeige korrigiert: Magnet CRM verwendet jetzt eine zentrale installierte Versionsquelle. Alte Update-Checker können die Version nicht mehr auf 1.4.x zurücksetzen. Installiert/Verfügbar wird zuverlässig und einheitlich angezeigt."
+  "version": "1.5.2",
+  "published_at": "2026-08-12T01:36:00+02:00",
+  "notes": "Windows-Start-Hotfix: alter PWA-Service-Worker kann tauri.localhost nicht mehr blockieren. Tauri nutzt einen frischen HTTPS-Origin, Service-Worker werden in der Desktop-App gesperrt und der Startscreen kann die Oberfläche nicht mehr blockieren."
 }
