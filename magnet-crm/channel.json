@@ -1,7 +1,7 @@
 {
   "app": "Magnet CRM",
   "channel": "development",
-  "version": "1.3.10",
-  "published_at": "2026-08-12T00:07:00+02:00",
-  "notes": "Updater-Optimierung: npm install wird nur noch bei fehlender Tauri-CLI ausgeführt, Cargo-Incremental-Build ist aktiviert und Magnet CRM startet nach der stillen Windows-Installation automatisch neu."
+  "version": "1.3.11",
+  "published_at": "2026-08-12T00:15:00+02:00",
+  "notes": "Recovery-Hotfix: behebt den Rust-Apostrophfehler und den defekten ICO-Build. Icons werden jetzt mit dem offiziellen Tauri-Generator aus SVG erzeugt. Entwicklungsupdates bauen nur noch die App ohne NSIS-Bundle und ersetzen die EXE mit Backup/Rollback statt die bestehende Installation vorab zu deinstallieren."
 }
