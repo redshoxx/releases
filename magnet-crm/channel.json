@@ -1,7 +1,7 @@
 {
   "app": "Magnet CRM",
   "channel": "development",
-  "version": "1.4.2",
-  "published_at": "2026-08-12T00:52:00+02:00",
-  "notes": "Update-Check-Hotfix: Die Einstellungen prüfen den Release-Kanal jetzt automatisch, vergleichen Versionen ohne alte Hilfsfunktionen und zeigen immer explizit Installiert/Verfügbar sowie verständliche Fehler an."
+  "version": "1.4.3",
+  "published_at": "2026-08-12T01:02:00+02:00",
+  "notes": "Robuster Chat-/Update-Hotfix: neuer unabhängiger Bootstrap lädt den Mitarbeiterchat zuverlässig unten rechts und synchronisiert Nachrichten regelmäßig. Die Update-Prüfung wird direkt an die Einstellungsseite gebunden und zeigt immer Installiert/Verfügbar an."
 }
