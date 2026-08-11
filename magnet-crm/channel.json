@@ -1,7 +1,7 @@
 {
   "app": "Magnet CRM",
   "channel": "development",
-  "version": "1.4.3",
-  "published_at": "2026-08-12T01:02:00+02:00",
-  "notes": "Robuster Chat-/Update-Hotfix: neuer unabhängiger Bootstrap lädt den Mitarbeiterchat zuverlässig unten rechts und synchronisiert Nachrichten regelmäßig. Die Update-Prüfung wird direkt an die Einstellungsseite gebunden und zeigt immer Installiert/Verfügbar an."
+  "version": "1.4.4",
+  "published_at": "2026-08-12T01:12:00+02:00",
+  "notes": "Cache-Hotfix für Windows: PWA-Service-Worker und alte WebView-Caches werden in der Tauri-App entfernt. version.js lädt den Chat-/Update-Bootstrap zusätzlich selbst nach, sodass ein alter index.html den Mitarbeiterchat oder die Update-Prüfung nicht mehr blockieren kann."
 }
