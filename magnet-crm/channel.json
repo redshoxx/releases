@@ -1,7 +1,7 @@
 {
   "app": "Magnet CRM",
   "channel": "development",
-  "version": "1.5.4",
-  "published_at": "2026-08-12T01:53:00+02:00",
-  "notes": "Stabilitäts-Hotfix: Freeze beim Öffnen der Einstellungen behoben. Der selbstverstärkende MutationObserver im Update-Check wurde entfernt; Versionsanzeige und automatische Update-Prüfung laufen jetzt ohne DOM-Endlosschleife."
+  "version": "1.5.5",
+  "published_at": "2026-08-12T02:05:00+02:00",
+  "notes": "Versionsanzeige bereinigt: Magnet CRM besitzt jetzt eine einzige schreibgeschützte Versionsquelle. Alte Layer können sichtbare Versionsnummern nicht mehr auf 1.3.x/1.4.x zurücksetzen; Update-Center und Status werden automatisch auf die aktuelle installierte Version korrigiert."
 }
