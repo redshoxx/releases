@@ -1,7 +1,7 @@
 {
   "app": "Magnet CRM",
   "channel": "development",
-  "version": "1.6.0",
-  "published_at": "2026-08-12T02:45:00+02:00",
-  "notes": "Stabilitäts- und Mitarbeiter-Release: Mitarbeiter können direkt in Magnet CRM mit Login, Rolle und mehreren Filialen angelegt werden. Alte parallele Chat-/Update-Hotfix-Layer wurden aus dem aktiven Ladepfad entfernt, asynchrones Doppelladen von Scripts wurde beseitigt und der Chat vom Update-System entkoppelt. Vor Windows/Tauri-Builds läuft jetzt ein automatischer Regressionstest mit 1000 Zyklen und Kollisionsprüfungen."
+  "version": "1.7.0",
+  "published_at": "2026-08-12T07:40:00+02:00",
+  "notes": "Native-Mobile-Release: Magnet CRM erhält auf Smartphones eine eigene App-Oberfläche mit dunkler App-Leiste, edge-to-edge Bottom-Tabbar, Mehr-Bottom-Sheet, Vollbild-Suche, Safe-Area-Unterstützung, großen Touch-Zielen, mobilen Bottom-Sheet-Dialogen, Vollbild-Chat, Keyboard/VisualViewport-Handling und einem eigenständigen Login. Das PWA-Manifest und iOS-Standalone-Metadaten wurden erweitert, damit die installierte Web-App ohne Browser-Optik startet. Desktop/Windows bleiben unverändert."
 }
